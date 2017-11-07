@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parade</string>
+
+    <!-- Login -->
+    <string name="facebook_app_id">115901962407723</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">eDezWM2bfF7H9eBXqssObbenX</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">HCxpDUw31CRgkntvPj3Ld2KgsxQZs7ZQk7ucvDSocMMznmrbW1</string>
+</resources>

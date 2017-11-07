@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927882711563",
+    "firebase_url": "https://parade-c1dea.firebaseio.com",
+    "project_id": "parade-c1dea",
+    "storage_bucket": "parade-c1dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927882711563:android:41d052ce6189dd1d",
+        "android_client_info": {
+          "package_name": "com.asmodeusstudio.parade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927882711563-qp6rqefnrfrisi2728l9pchmnek2ql9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asmodeusstudio.parade",
+            "certificate_hash": "111622c63348c90bfa2409629f72898ab9c45482"
+          }
+        },
+        {
+          "client_id": "927882711563-29r9art30q04mvdq6jjih7mb3es5rmj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1X0WxUEUNJIrpUv7jAiM61fiafa2Ac0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927882711563-29r9art30q04mvdq6jjih7mb3es5rmj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

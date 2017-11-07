@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.asmodeusstudio.parade">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Parade"
+        android:allowBackup="true"
+        android:icon="@mipmap/minimap_182_182"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".login.Login"
+            android:theme="@style/LoginTheme">
+        </activity>
+
+        <activity android:name=".Main">
+        </activity>
+    </application>
+
+</manifest>
